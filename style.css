@@ -85,7 +85,7 @@ html {
   }
   #adventDoors li a.disabled {
       border-color: #b6fe98;
-      background-color: rgba(196,144,144,0.15);
+      background-color: rgba(150,144,144,0.15);
       color: #b6fe98;
       cursor: default;
   }
